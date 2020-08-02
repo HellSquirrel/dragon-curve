@@ -1,0 +1,10 @@
+[package]
+authors = ["HellSquirrel <zloymult@gmail.com>"]
+edition = "2018"
+name = "dragon_curve"
+version = "0.1.0"
+
+[dependencies]
+
+[lib]
+crate-type = ["cdylib", "rlib"]
